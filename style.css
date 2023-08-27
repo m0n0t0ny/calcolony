@@ -27,9 +27,20 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+    gap: 8vh;
     font-family: 'product_sansregular';
     font-size: 1.4rem;
     font-weight: 400;
+    background-image: url(/uuunion1.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.title {
+    font-size: 8vw;
+    color: #f9f9f9ff;
+    letter-spacing: 0.4vw;
 }
 
 button {

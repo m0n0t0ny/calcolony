@@ -33,11 +33,12 @@ body {
     font-size: 1.4rem;
     font-weight: 400;
     background-image: linear-gradient(to right top, #ffe7f5, #fcdff5, #f6d8f6, #efd2f8, #e5ccfb, #d7d1ff, #cad5ff, #bfd9ff, #bce4ff, #bfeeff, #c8f7fe, #d6fffc);
+    color: #333;
 }
 
 .title {
-    font-size: 8vw;
-    color: #494949;
+    font-size: calc(4rem + 4vw);
+    color: #333;
     letter-spacing: 0.2vw;
 }
 
@@ -100,7 +101,7 @@ button {
 .current-operand {
     font-family: 'ds-digi';
     font-size: 2.5rem;
-    color: #3d4349;
+    color: #333;
 }
 
 .calc-name {

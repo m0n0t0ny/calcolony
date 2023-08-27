@@ -32,14 +32,12 @@ body {
     font-family: 'product_sansregular';
     font-size: 1.4rem;
     font-weight: 400;
-    background-image: url(/uuunion1.svg);
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-image: linear-gradient(to right top, #ffe7f5, #fcdff5, #f6d8f6, #efd2f8, #e5ccfb, #d7d1ff, #cad5ff, #bfd9ff, #bce4ff, #bfeeff, #c8f7fe, #d6fffc);
 }
 
 .title {
     font-size: 8vw;
-    color: #f9f9f9ff;
+    color: #494949;
     letter-spacing: 0.4vw;
 }
 
